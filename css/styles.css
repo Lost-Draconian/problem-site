@@ -102,7 +102,7 @@ p {
 }
 
 .feature-box {
-  padding: 4.5%;
+  padding: 4.5% 4.5% 0px;
 }
 
 .icon {
@@ -191,5 +191,5 @@ p {
 }
 
 .message-box {
-	width: 45%;
+	width: 60%;
 }
