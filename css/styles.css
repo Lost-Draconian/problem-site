@@ -1,11 +1,11 @@
 
 body {
-  font-family: "Montserrat";
+  font-family: "Jomolhari";
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Jomolhari-Bold";
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: "Jomolhari-Black";
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -51,7 +51,7 @@ p {
 }
 
 .navbar-brand {
-  font-family: "Monteserrat";
+  font-family: "Asap";
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -62,7 +62,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Jomolhari";
 }
 
 /* Buttons */
@@ -166,7 +166,7 @@ p {
 	padding: 7% 15%;
 }
 .cta-heading {
-	font-family: "montserrat-black";
+	font-family: "Jomolhari-black";
 	font-size: 3.5rem;
 	line-height: 1.5;
 }
