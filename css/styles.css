@@ -6,10 +6,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Jomolhari-Bold";
+  color: #fff;
 }
 
 p {
-  color: #40514e;
+  color: #fff;
 }
 
 /* Headings */
@@ -34,14 +35,14 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #30e3ca;
+  background-color: #b83b5e;
   color: #fff;
   padding: 7% 15%;
   text-align: center;
 }
 
 .white-section {
-  background-color: #fff;
+  background-color: #b83b5e;
 }
 
 /* Navigation Bar */
@@ -74,7 +75,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #30e3ca;
+  background-color: #f08a5d;
   color: #fff;
   text-align: left;
 }
@@ -94,7 +95,7 @@ p {
 /* Features Section */
 
 #features {
-  background-color: #e4f9f5;
+  background-color: #b83b5e;
 }
 
 .feature-title {
@@ -117,7 +118,7 @@ p {
 /* Testimonial Section */
 
 #testimonials {
-  background-color: #30e3ca;
+  background-color: #f08a5d;
 }
 
 .testimonial-text {
@@ -145,7 +146,7 @@ p {
 
 #pricing {
   padding: 100px;
-  background-color: #11999e;
+  background-color: #b83b5e;
 }
 
 .price-text {
@@ -161,7 +162,7 @@ p {
 /* CTA Section */
 #cta {
 	text-align: center;
-	background-color: #30e3ca;
+	background-color: #6a2c70;
 	color: #fff;
 	padding: 7% 15%;
 }
